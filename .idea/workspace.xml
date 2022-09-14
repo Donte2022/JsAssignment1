@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b10642c-5912-4b60-b888-0f8553cf6611" name="Changes" comment="JsAssignment1prj">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsAssignment1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JsAssignment1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsAssignment1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JsAssignment1.js" afterDir="false" />
-    </list>
+    <list default="true" id="4b10642c-5912-4b60-b888-0f8553cf6611" name="Changes" comment="JsAssignment1prj" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663106560917</updated>
-      <workItem from="1663106562439" duration="10311000" />
+      <workItem from="1663106562439" duration="10701000" />
     </task>
     <task id="LOCAL-00001" summary="JsAssignment1prj">
       <created>1663109640925</created>
@@ -92,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663109714562</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JsAssignment1prj">
+      <created>1663122278585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663122278585</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
